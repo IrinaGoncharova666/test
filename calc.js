@@ -27,6 +27,5 @@
 	    }
 
 	    // отправляем результат на страницу
-		<p id="result"></p>
 		document.getElementById("result").innerHTML = result;
 	}
